@@ -10,7 +10,6 @@
     ---- Ultime correzioni
     ---- Parti debug commentate e nascoste all'utente finale
     ---- Deployment
-      ----Correzione Bug
     Version 1.1
     ---- Miglioramento Stampa valori
     ---- Ancora presente il bug dell' 11esimo valore
